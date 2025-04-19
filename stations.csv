@@ -1,0 +1,13 @@
+Station Name,Stream URL
+BBC Radio 4,http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+FIP,https://icecast.radiofrance.fr/fip-hifi.aac
+FIP Groove,https://icecast.radiofrance.fr/fipgroove-hifi.aac
+FIP Jazz,https://icecast.radiofrance.fr/fipjazz-hifi.aac
+Horizonte 107.9,https://s2.mexside.net/8014/stream
+KCRW,https://streams.kcrw.com/kcrw_mp3
+Nova,http://radionova.ice.infomaniak.ch/radionova-256.aac
+NPO Soul & Jazz,https://icecast.omroep.nl/radio6-bb-mp3
+TSF Jazz,http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+WWNO,https://tektite.streamguys1.com:5145/wwnolive
+WWOZ,http://wwoz-sc.streamguys1.com/wwoz-hi.mp3
